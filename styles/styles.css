@@ -1,0 +1,32 @@
+.index_imgHeader{
+    width: 100%;
+    height: 100%;
+}
+
+.bodyClass{
+    background-color: rgb(7, 2, 31);
+}
+
+.tituloComida {
+    color: white;
+    font-size: 15px;
+}
+
+.descripcionComida{
+    color: white;
+    font-size: 10px;
+}
+
+.fritasacaballo{
+    width: auto;
+    height: auto;
+}
+
+.index_imgHeaderLogo{
+    width: 100%;
+    height: 150px;
+}
+
+.hr{
+    color: white;
+}
