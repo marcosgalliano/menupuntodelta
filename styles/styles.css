@@ -9,7 +9,9 @@
 
 .tituloComida {
     color: white;
-    font-size: 15px;
+    font-size: 18px;
+    text-align: center;
+    border-bottom: 2px solid white;
 }
 
 .descripcionComida{
@@ -23,10 +25,14 @@
 }
 
 .index_imgHeaderLogo{
-    width: 100%;
+    width: 60%;
     height: 150px;
 }
 
 .hr{
     color: white;
+}
+
+.imagenes{
+    text-align: center;
 }
