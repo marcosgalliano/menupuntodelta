@@ -16,7 +16,7 @@
 
 .descripcionComida{
     color: white;
-    font-size: 10px;
+    font-size: 17px;
 }
 
 .fritasacaballo{
@@ -35,4 +35,11 @@
 
 .imagenes{
     text-align: center;
+}
+
+.precio{
+    color: rgb(50, 5, 250);
+    text-align: right;
+    font-size: 24px;
+    border-bottom: 1px solid blue;
 }
