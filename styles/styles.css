@@ -82,9 +82,11 @@
 
 .precioGaseosa{
     color: rgb(50, 5, 250);
-    border-bottom: 1px solid blue;
     text-align: center;
     font-size: 26px;
+    font-weight: bold;
+    border-bottom: 3px solid blue;
+    padding-bottom: 72px;
 }
 
 .latadepepsi{
